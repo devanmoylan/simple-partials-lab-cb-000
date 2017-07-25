@@ -24,3 +24,4 @@ RSpec.describe "classroom_show_view" do
     expect(rendered).to match /Bobby/
   end
 end
+
